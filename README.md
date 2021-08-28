@@ -4,8 +4,8 @@
 
 - 📫 How to reach me **myatminhtay7@gmail.com**
 
-![Anurag's GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyatMinHtay&hide=contribs,prs)
-)
+![JerryM2's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyatMinHtay&show_icons=true&theme=radical)
+
 
 
 <h3 align="left">Connect with me:</h3>
