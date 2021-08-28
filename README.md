@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MyatMinHtay(JerryM2)</h1>
+<h1 align="center"> I'm MyatMinHtay(JerryM2)</h1>
 <h3 align="center">Web Developer</h3>
 
 - 📫 How to reach me **myatminhtay7@gmail.com**
